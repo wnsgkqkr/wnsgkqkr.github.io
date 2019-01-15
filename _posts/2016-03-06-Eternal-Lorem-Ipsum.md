@@ -1,15 +1,17 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: 입문교육 소감
+author: 박준하
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. 
 
-## The Eternal Lorem Ipsum? 
+## 입문교육 소감
 -----
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Nam maximus tempor feugiat. Mauris tristique imperdiet nulla id egestas. Proin eget lobortis magna. Duis consectetur nibh at elit viverra congue. Ut eu turpis enim. Suspendisse laoreet, diam sed consequat sodales, felis dolor accumsan justo, nec scelerisque mi sem quis dolor. Etiam ornare venenatis massa, a suscipit ex. Ut quis lectus id nibh mattis rutrum. Nunc vel cursus eros, at blandit mi. Vivamus ac posuere libero.
-
+NHN엔터테인먼트에 합격 소식을 듣고 1월 2일 첫 출근을 했습니다.
+설레는 마음 반, 걱정되는 마음 반으로 판교에 있는 회사에 도착하고
+지정 받았던 3조로써 입문교육을 시작했습니다.
+조원들과 함께 간단한 비즈니스 교육을 받고 즐거운 게임을 하며 동기애를 형성했습니다.
+비록 4일 밖에 안되는 짧은 시간이었지만 오랜기간 함께한 동기처럼 친해질 수 있었습니다.
+기술 교육 기간동안에도 친하게 잘 지낼 수 있었으면 좋겠고
+모두 교육 잘 마치고 신입사원으로 술한잔 했으면 좋겠습니다.
